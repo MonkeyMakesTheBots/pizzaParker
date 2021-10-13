@@ -1,0 +1,24 @@
+body {
+	color: navy;
+	background-color: LightSkyBlue;
+}
+
+#pageTitle {
+	background-color: LightSkyBlue;
+	border-style: solid;	
+	border-color: Brown;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.meat {
+	color: Brown;
+}
+
+.veggie {
+	color: Green;
+}
+.cheese {
+	color: Yellow;
+}
